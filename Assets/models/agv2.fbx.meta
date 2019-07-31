@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 7d7160fc2bf7b704a8a533f2ef1f2b75
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 10'
+    100004: ' 100'
+    100006: ' 101'
+    100008: ' 102'
+    100010: ' 103'
+    100012: ' 104'
+    100014: ' 105'
+    100016: ' 106'
+    100018: ' 107'
+    100020: ' 108'
+    100022: ' 109'
+    100024: ' 11'
+    100026: ' 110'
+    100028: ' 111'
+    100030: ' 112'
+    100032: ' 113'
+    100034: ' 114'
+    100036: ' 115'
+    100038: ' 116'
+    100040: ' 117'
+    100042: ' 118'
+    100044: ' 119'
+    100046: ' 12'
+    100048: ' 120'
+    100050: ' 121'
+    100052: ' 122'
+    100054: ' 123'
+    100056: ' 124'
+    100058: ' 125'
+    100060: ' 126'
+    100062: ' 127'
+    100064: ' 128'
+    100066: ' 129'
+    100068: ' 13'
+    100070: ' 130'
+    100072: ' 131'
+    100074: ' 132'
+    100076: ' 133'
+    100078: ' 134'
+    100080: ' 135'
+    100082: ' 136'
+    100084: ' 137'
+    100086: ' 138'
+    100088: ' 139'
+    100090: ' 14'
+    100092: ' 140'
+    100094: ' 141'
+    100096: ' 142'
+    100098: ' 143'
+    100100: ' 144'
+    100102: ' 145'
+    100104: ' 146'
+    100106: ' 147'
+    100108: ' 148'
+    100110: ' 149'
+    100112: ' 15'
+    100114: ' 150'
+    100116: ' 151'
+    100118: ' 152'
+    100120: ' 153'
+    100122: ' 154'
+    100124: ' 155'
+    100126: ' 156'
+    100128: ' 157'
+    100130: ' 158'
+    100132: ' 159'
+    100134: ' 16'
+    100136: ' 160'
+    100138: ' 161'
+    100140: ' 162'
+    100142: ' 163'
+    100144: ' 164'
+    100146: ' 165'
+    100148: ' 166'
+    100150: ' 167'
+    100152: ' 168'
+    100154: ' 169'
+    100156: ' 17'
+    100158: ' 170'
+    100160: ' 171'
+    100162: ' 172'
+    100164: ' 173'
+    100166: ' 174'
+    100168: ' 175'
+    100170: ' 176'
+    100172: ' 177'
+    100174: ' 178'
+    100176: ' 179'
+    100178: ' 18'
+    100180: ' 180'
+    100182: ' 181'
+    100184: ' 182'
+    100186: ' 183'
+    100188: ' 184'
+    100190: ' 185'
+    100192: ' 186'
+    100194: ' 187'
+    100196: ' 188'
+    100198: ' 189'
+    100200: ' 19'
+    100202: ' 190'
+    100204: ' 191'
+    100206: ' 192'
+    100208: ' 193'
+    100210: ' 194'
+    100212: ' 195'
+    100214: ' 196'
+    100216: ' 197'
+    100218: ' 198'
+    100220: ' 199'
+    100222: ' 2'
+    100224: ' 20'
+    100226: ' 200'
+    100228: ' 201'
+    100230: ' 202'
+    100232: ' 203'
+    100234: ' 204'
+    100236: ' 205'
+    100238: ' 206'
+    100240: ' 207'
+    100242: ' 208'
+    100244: ' 209'
+    100246: ' 21'
+    100248: ' 210'
+    100250: ' 211'
+    100252: ' 212'
+    100254: ' 213'
+    100256: ' 214'
+    100258: ' 215'
+    100260: ' 216'
+    100262: ' 217'
+    100264: ' 218'
+    100266: ' 219'
+    100268: ' 22'
+    100270: ' 220'
+    100272: ' 221'
+    100274: ' 222'
+    100276: ' 223'
+    100278: ' 224'
+    100280: ' 225'
+    100282: ' 226'
+    100284: ' 227'
+    100286: ' 228'
+    100288: ' 229'
+    100290: ' 23'
+    100292: ' 230'
+    100294: ' 231'
+    100296: ' 24'
+    100298: ' 25'
+    100300: ' 26'
+    100302: ' 27'
+    100304: ' 28'
+    100306: ' 29'
+    100308: ' 3'
+    100310: ' 30'
+    100312: ' 31'
+    100314: ' 32'
+    100316: ' 33'
+    100318: ' 34'
+    100320: ' 35'
+    100322: ' 36'
+    100324: ' 37'
+    100326: ' 38'
+    100328: ' 39'
+    100330: ' 4'
+    100332: ' 40'
+    100334: ' 41'
+    100336: ' 42'
+    100338: ' 43'
+    100340: ' 44'
+    100342: ' 45'
+    100344: ' 46'
+    100346: ' 47'
+    100348: ' 48'
+    100350: ' 49'
+    100352: ' 5'
+    100354: ' 50'
+    100356: ' 51'
+    100358: ' 52'
+    100360: ' 53'
+    100362: ' 54'
+    100364: ' 55'
+    100366: ' 56'
+    100368: ' 57'
+    100370: ' 58'
+    100372: ' 59'
+    100374: ' 6'
+    100376: ' 60'
+    100378: ' 61'
+    100380: ' 62'
+    100382: ' 63'
+    100384: ' 64'
+    100386: ' 65'
+    100388: ' 66'
+    100390: ' 67'
+    100392: ' 68'
+    100394: ' 69'
+    100396: ' 7'
+    100398: ' 70'
+    100400: ' 71'
+    100402: ' 72'
+    100404: ' 73'
+    100406: ' 74'
+    100408: ' 75'
+    100410: ' 76'
+    100412: ' 77'
+    100414: ' 78'
+    100416: ' 79'
+    100418: ' 8'
+    100420: ' 80'
+    100422: ' 81'
+    100424: ' 82'
+    100426: ' 83'
+    100428: ' 84'
+    100430: ' 85'
+    100432: ' 86'
+    100434: ' 87'
+    100436: ' 88'
+    100438: ' 89'
+    100440: ' 9'
+    100442: ' 90'
+    100444: ' 91'
+    100446: ' 92'
+    100448: ' 93'
+    100450: ' 94'
+    100452: ' 95'
+    100454: ' 96'
+    100456: ' 97'
+    100458: ' 98'
+    100460: ' 99'
+    100462: //RootNode
+    100464: hex flange machine screw_am_B18.6.7M - M12 x 1.75 x 90 Indented HFMS --38N
+    100466: hex flange machine screw_am_B18.6.7M - M12 x 1.75 x 90 Indented HFMS --38N
+      1
+    100468: hex flange machine screw_am_B18.6.7M - M12 x 1.75 x 90 Indented HFMS --38N
+      2
+    100470: hex flange machine screw_am_B18.6.7M - M12 x 1.75 x 90 Indented HFMS --38N
+      3
+    100472: hex flange nut_am_B18.2.2.4M - Hex flange nut, M12 x 1.75 --N
+    100474: hex flange nut_am_B18.2.2.4M - Hex flange nut, M12 x 1.75 --N 1
+    100476: hex flange nut_am_B18.2.2.4M - Hex flange nut, M12 x 1.75 --N 2
+    100478: hex flange nut_am_B18.2.2.4M - Hex flange nut, M12 x 1.75 --N 3
+    100480: needle roller bearing_nu_am_PreviewCfg
+    100482: needle roller bearing_nu_am_PreviewCfg 1
+    100484: needle roller bearing_nu_am_PreviewCfg 2
+    100486: needle roller bearing_nu_am_PreviewCfg 3
+    100488: needle roller bearing_nu_am_PreviewCfg 4
+    100490: needle roller bearing_nu_am_PreviewCfg 5
+    100492: needle roller bearing_nu_am_PreviewCfg 6
+    100494: needle roller bearing_nu_am_PreviewCfg 7
+    100496: "\xDDZ S\xDCRME - 1321,40 cm profil 48x48"
+    100498: "\xDDZ S\xDCRME - 1321,40 cm profil 48x48 1"
+    100500: "\xDDZ S\xDCRME - 48x48 - 616,42 cm profil"
+    100502: "\xDDZ S\xDCRME - 48x48 - 616,42 cm profil 1"
+    100504: "\xDDZ S\xDCRME - 48x48 - 616,42 cm profil 2"
+    100506: "\xDDZ S\xDCRME - 48x48 - 616,42 cm profil 3"
+    100508: "\xDDZ S\xDCRME - 655.49"
+    100510: "\xDDZ S\xDCRME - 655.49 1"
+    100512: "\xDDZ S\xDCRME - 655.49 2"
+    100514: "\xDDZ S\xDCRME - 655.49 3"
+    100516: "\xDDZ S\xDCRME - ara ba\xF0lant\xFD profili - 100mm"
+    100518: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD"
+    100520: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 1"
+    100522: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 10"
+    100524: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 11"
+    100526: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 12"
+    100528: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 13"
+    100530: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 14"
+    100532: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 15"
+    100534: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 16"
+    100536: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 17"
+    100538: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 18"
+    100540: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 19"
+    100542: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 2"
+    100544: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 20"
+    100546: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 21"
+    100548: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 22"
+    100550: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 23"
+    100552: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 24"
+    100554: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 25"
+    100556: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 26"
+    100558: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 27"
+    100560: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 28"
+    100562: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 29"
+    100564: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 3"
+    100566: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 30"
+    100568: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 31"
+    100570: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 32"
+    100572: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 33"
+    100574: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 34"
+    100576: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 35"
+    100578: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 36"
+    100580: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 37"
+    100582: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 38"
+    100584: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 39"
+    100586: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 4"
+    100588: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 40"
+    100590: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 41"
+    100592: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 42"
+    100594: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 43"
+    100596: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 44"
+    100598: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 45"
+    100600: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 46"
+    100602: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 47"
+    100604: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 48"
+    100606: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 49"
+    100608: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 5"
+    100610: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 50"
+    100612: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 51"
+    100614: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 6"
+    100616: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 7"
+    100618: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 8"
+    100620: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 9"
+    100622: "\xDDZ S\xDCRME - ara\xE7 montaj\xFD"
+    100624: "\xDDZ S\xDCRME - kol tutucu"
+    100626: "\xDDZ S\xDCRME - mafsal - erkek par\xE7a"
+    100628: "\xDDZ S\xDCRME - mafsal - erkek par\xE7a 1"
+    100630: "\xDDZ S\xDCRME - Mafsal - rulmanl\xFD par\xE7a"
+    100632: "\xDDZ S\xDCRME - Mafsal - rulmanl\xFD par\xE7a 1"
+    100634: "\xDDZ S\xDCRME - Profil tutucu ana ba\xF0lant\xFD par\xE7as\xFD"
+    100636: "\xDDZ S\xDCRME - Profil tutucu ara ba\xF0lant\xFD par\xE7as\xFD"
+    100638: "\xDDZ S\xDCRME - Profil tutucu ara ba\xF0lant\xFD par\xE7as\xFD 1"
+    100640: "\xDDZ S\xDCRME - Profil tutucu ara ba\xF0lant\xFD par\xE7as\xFD 2"
+    100642: "\xDDZ S\xDCRME - Profil tutucu ara ba\xF0lant\xFD par\xE7as\xFD 3"
+    100644: "\xDDZ S\xDCRME - t boru tutucu"
+    100646: "\xDDZ S\xDCRME - teker ve dingil montaj\xFD"
+    100648: "\xDDZ S\xDCRME - teker ve dingil montaj\xFD 1"
+    100650: "\xDDZ S\xDCRME - tekerlek"
+    100652: "\xDDZ S\xDCRME - tekerlek 1"
+    100654: "\xDDZ S\xDCRME - tekerlek 2"
+    100656: "\xDDZ S\xDCRME - tekerlek 3"
+    100658: "\xDDZ S\xDCRME - tekerlek montaj\xFD"
+    100660: "\xDDZ S\xDCRME - tekerlek montaj\xFD 1"
+    100662: "\xDDZ S\xDCRME - tekerlek montaj\xFD 2"
+    100664: "\xDDZ S\xDCRME - tekerlek montaj\xFD 3"
+    100666: "\xDDZ S\xDCRME - tekerlek \xFCst\xFC tutucu"
+    100668: "\xDDZ S\xDCRME - tekerlek \xFCst\xFC tutucu 1"
+    100670: "\xDDZ S\xDCRME - tekerlek \xFCst\xFC tutucu 2"
+    100672: "\xDDZ S\xDCRME - tekerlek \xFCst\xFC tutucu 3"
+    100674: "\xDDZ S\xDCRME - \xE7ekici oynar p2"
+    100676: "\xDDZ S\xDCRME - \xE7ekici sabit par\xE7a"
+    400000: ' 1'
+    400002: ' 10'
+    400004: ' 100'
+    400006: ' 101'
+    400008: ' 102'
+    400010: ' 103'
+    400012: ' 104'
+    400014: ' 105'
+    400016: ' 106'
+    400018: ' 107'
+    400020: ' 108'
+    400022: ' 109'
+    400024: ' 11'
+    400026: ' 110'
+    400028: ' 111'
+    400030: ' 112'
+    400032: ' 113'
+    400034: ' 114'
+    400036: ' 115'
+    400038: ' 116'
+    400040: ' 117'
+    400042: ' 118'
+    400044: ' 119'
+    400046: ' 12'
+    400048: ' 120'
+    400050: ' 121'
+    400052: ' 122'
+    400054: ' 123'
+    400056: ' 124'
+    400058: ' 125'
+    400060: ' 126'
+    400062: ' 127'
+    400064: ' 128'
+    400066: ' 129'
+    400068: ' 13'
+    400070: ' 130'
+    400072: ' 131'
+    400074: ' 132'
+    400076: ' 133'
+    400078: ' 134'
+    400080: ' 135'
+    400082: ' 136'
+    400084: ' 137'
+    400086: ' 138'
+    400088: ' 139'
+    400090: ' 14'
+    400092: ' 140'
+    400094: ' 141'
+    400096: ' 142'
+    400098: ' 143'
+    400100: ' 144'
+    400102: ' 145'
+    400104: ' 146'
+    400106: ' 147'
+    400108: ' 148'
+    400110: ' 149'
+    400112: ' 15'
+    400114: ' 150'
+    400116: ' 151'
+    400118: ' 152'
+    400120: ' 153'
+    400122: ' 154'
+    400124: ' 155'
+    400126: ' 156'
+    400128: ' 157'
+    400130: ' 158'
+    400132: ' 159'
+    400134: ' 16'
+    400136: ' 160'
+    400138: ' 161'
+    400140: ' 162'
+    400142: ' 163'
+    400144: ' 164'
+    400146: ' 165'
+    400148: ' 166'
+    400150: ' 167'
+    400152: ' 168'
+    400154: ' 169'
+    400156: ' 17'
+    400158: ' 170'
+    400160: ' 171'
+    400162: ' 172'
+    400164: ' 173'
+    400166: ' 174'
+    400168: ' 175'
+    400170: ' 176'
+    400172: ' 177'
+    400174: ' 178'
+    400176: ' 179'
+    400178: ' 18'
+    400180: ' 180'
+    400182: ' 181'
+    400184: ' 182'
+    400186: ' 183'
+    400188: ' 184'
+    400190: ' 185'
+    400192: ' 186'
+    400194: ' 187'
+    400196: ' 188'
+    400198: ' 189'
+    400200: ' 19'
+    400202: ' 190'
+    400204: ' 191'
+    400206: ' 192'
+    400208: ' 193'
+    400210: ' 194'
+    400212: ' 195'
+    400214: ' 196'
+    400216: ' 197'
+    400218: ' 198'
+    400220: ' 199'
+    400222: ' 2'
+    400224: ' 20'
+    400226: ' 200'
+    400228: ' 201'
+    400230: ' 202'
+    400232: ' 203'
+    400234: ' 204'
+    400236: ' 205'
+    400238: ' 206'
+    400240: ' 207'
+    400242: ' 208'
+    400244: ' 209'
+    400246: ' 21'
+    400248: ' 210'
+    400250: ' 211'
+    400252: ' 212'
+    400254: ' 213'
+    400256: ' 214'
+    400258: ' 215'
+    400260: ' 216'
+    400262: ' 217'
+    400264: ' 218'
+    400266: ' 219'
+    400268: ' 22'
+    400270: ' 220'
+    400272: ' 221'
+    400274: ' 222'
+    400276: ' 223'
+    400278: ' 224'
+    400280: ' 225'
+    400282: ' 226'
+    400284: ' 227'
+    400286: ' 228'
+    400288: ' 229'
+    400290: ' 23'
+    400292: ' 230'
+    400294: ' 231'
+    400296: ' 24'
+    400298: ' 25'
+    400300: ' 26'
+    400302: ' 27'
+    400304: ' 28'
+    400306: ' 29'
+    400308: ' 3'
+    400310: ' 30'
+    400312: ' 31'
+    400314: ' 32'
+    400316: ' 33'
+    400318: ' 34'
+    400320: ' 35'
+    400322: ' 36'
+    400324: ' 37'
+    400326: ' 38'
+    400328: ' 39'
+    400330: ' 4'
+    400332: ' 40'
+    400334: ' 41'
+    400336: ' 42'
+    400338: ' 43'
+    400340: ' 44'
+    400342: ' 45'
+    400344: ' 46'
+    400346: ' 47'
+    400348: ' 48'
+    400350: ' 49'
+    400352: ' 5'
+    400354: ' 50'
+    400356: ' 51'
+    400358: ' 52'
+    400360: ' 53'
+    400362: ' 54'
+    400364: ' 55'
+    400366: ' 56'
+    400368: ' 57'
+    400370: ' 58'
+    400372: ' 59'
+    400374: ' 6'
+    400376: ' 60'
+    400378: ' 61'
+    400380: ' 62'
+    400382: ' 63'
+    400384: ' 64'
+    400386: ' 65'
+    400388: ' 66'
+    400390: ' 67'
+    400392: ' 68'
+    400394: ' 69'
+    400396: ' 7'
+    400398: ' 70'
+    400400: ' 71'
+    400402: ' 72'
+    400404: ' 73'
+    400406: ' 74'
+    400408: ' 75'
+    400410: ' 76'
+    400412: ' 77'
+    400414: ' 78'
+    400416: ' 79'
+    400418: ' 8'
+    400420: ' 80'
+    400422: ' 81'
+    400424: ' 82'
+    400426: ' 83'
+    400428: ' 84'
+    400430: ' 85'
+    400432: ' 86'
+    400434: ' 87'
+    400436: ' 88'
+    400438: ' 89'
+    400440: ' 9'
+    400442: ' 90'
+    400444: ' 91'
+    400446: ' 92'
+    400448: ' 93'
+    400450: ' 94'
+    400452: ' 95'
+    400454: ' 96'
+    400456: ' 97'
+    400458: ' 98'
+    400460: ' 99'
+    400462: //RootNode
+    400464: hex flange machine screw_am_B18.6.7M - M12 x 1.75 x 90 Indented HFMS --38N
+    400466: hex flange machine screw_am_B18.6.7M - M12 x 1.75 x 90 Indented HFMS --38N
+      1
+    400468: hex flange machine screw_am_B18.6.7M - M12 x 1.75 x 90 Indented HFMS --38N
+      2
+    400470: hex flange machine screw_am_B18.6.7M - M12 x 1.75 x 90 Indented HFMS --38N
+      3
+    400472: hex flange nut_am_B18.2.2.4M - Hex flange nut, M12 x 1.75 --N
+    400474: hex flange nut_am_B18.2.2.4M - Hex flange nut, M12 x 1.75 --N 1
+    400476: hex flange nut_am_B18.2.2.4M - Hex flange nut, M12 x 1.75 --N 2
+    400478: hex flange nut_am_B18.2.2.4M - Hex flange nut, M12 x 1.75 --N 3
+    400480: needle roller bearing_nu_am_PreviewCfg
+    400482: needle roller bearing_nu_am_PreviewCfg 1
+    400484: needle roller bearing_nu_am_PreviewCfg 2
+    400486: needle roller bearing_nu_am_PreviewCfg 3
+    400488: needle roller bearing_nu_am_PreviewCfg 4
+    400490: needle roller bearing_nu_am_PreviewCfg 5
+    400492: needle roller bearing_nu_am_PreviewCfg 6
+    400494: needle roller bearing_nu_am_PreviewCfg 7
+    400496: "\xDDZ S\xDCRME - 1321,40 cm profil 48x48"
+    400498: "\xDDZ S\xDCRME - 1321,40 cm profil 48x48 1"
+    400500: "\xDDZ S\xDCRME - 48x48 - 616,42 cm profil"
+    400502: "\xDDZ S\xDCRME - 48x48 - 616,42 cm profil 1"
+    400504: "\xDDZ S\xDCRME - 48x48 - 616,42 cm profil 2"
+    400506: "\xDDZ S\xDCRME - 48x48 - 616,42 cm profil 3"
+    400508: "\xDDZ S\xDCRME - 655.49"
+    400510: "\xDDZ S\xDCRME - 655.49 1"
+    400512: "\xDDZ S\xDCRME - 655.49 2"
+    400514: "\xDDZ S\xDCRME - 655.49 3"
+    400516: "\xDDZ S\xDCRME - ara ba\xF0lant\xFD profili - 100mm"
+    400518: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD"
+    400520: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 1"
+    400522: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 10"
+    400524: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 11"
+    400526: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 12"
+    400528: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 13"
+    400530: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 14"
+    400532: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 15"
+    400534: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 16"
+    400536: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 17"
+    400538: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 18"
+    400540: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 19"
+    400542: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 2"
+    400544: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 20"
+    400546: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 21"
+    400548: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 22"
+    400550: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 23"
+    400552: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 24"
+    400554: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 25"
+    400556: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 26"
+    400558: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 27"
+    400560: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 28"
+    400562: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 29"
+    400564: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 3"
+    400566: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 30"
+    400568: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 31"
+    400570: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 32"
+    400572: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 33"
+    400574: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 34"
+    400576: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 35"
+    400578: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 36"
+    400580: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 37"
+    400582: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 38"
+    400584: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 39"
+    400586: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 4"
+    400588: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 40"
+    400590: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 41"
+    400592: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 42"
+    400594: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 43"
+    400596: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 44"
+    400598: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 45"
+    400600: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 46"
+    400602: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 47"
+    400604: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 48"
+    400606: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 49"
+    400608: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 5"
+    400610: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 50"
+    400612: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 51"
+    400614: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 6"
+    400616: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 7"
+    400618: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 8"
+    400620: "\xDDZ S\xDCRME - ara\xE7 civatas\xFD 9"
+    400622: "\xDDZ S\xDCRME - ara\xE7 montaj\xFD"
+    400624: "\xDDZ S\xDCRME - kol tutucu"
+    400626: "\xDDZ S\xDCRME - mafsal - erkek par\xE7a"
+    400628: "\xDDZ S\xDCRME - mafsal - erkek par\xE7a 1"
+    400630: "\xDDZ S\xDCRME - Mafsal - rulmanl\xFD par\xE7a"
+    400632: "\xDDZ S\xDCRME - Mafsal - rulmanl\xFD par\xE7a 1"
+    400634: "\xDDZ S\xDCRME - Profil tutucu ana ba\xF0lant\xFD par\xE7as\xFD"
+    400636: "\xDDZ S\xDCRME - Profil tutucu ara ba\xF0lant\xFD par\xE7as\xFD"
+    400638: "\xDDZ S\xDCRME - Profil tutucu ara ba\xF0lant\xFD par\xE7as\xFD 1"
+    400640: "\xDDZ S\xDCRME - Profil tutucu ara ba\xF0lant\xFD par\xE7as\xFD 2"
+    400642: "\xDDZ S\xDCRME - Profil tutucu ara ba\xF0lant\xFD par\xE7as\xFD 3"
+    400644: "\xDDZ S\xDCRME - t boru tutucu"
+    400646: "\xDDZ S\xDCRME - teker ve dingil montaj\xFD"
+    400648: "\xDDZ S\xDCRME - teker ve dingil montaj\xFD 1"
+    400650: "\xDDZ S\xDCRME - tekerlek"
+    400652: "\xDDZ S\xDCRME - tekerlek 1"
+    400654: "\xDDZ S\xDCRME - tekerlek 2"
+    400656: "\xDDZ S\xDCRME - tekerlek 3"
+    400658: "\xDDZ S\xDCRME - tekerlek montaj\xFD"
+    400660: "\xDDZ S\xDCRME - tekerlek montaj\xFD 1"
+    400662: "\xDDZ S\xDCRME - tekerlek montaj\xFD 2"
+    400664: "\xDDZ S\xDCRME - tekerlek montaj\xFD 3"
+    400666: "\xDDZ S\xDCRME - tekerlek \xFCst\xFC tutucu"
+    400668: "\xDDZ S\xDCRME - tekerlek \xFCst\xFC tutucu 1"
+    400670: "\xDDZ S\xDCRME - tekerlek \xFCst\xFC tutucu 2"
+    400672: "\xDDZ S\xDCRME - tekerlek \xFCst\xFC tutucu 3"
+    400674: "\xDDZ S\xDCRME - \xE7ekici oynar p2"
+    400676: "\xDDZ S\xDCRME - \xE7ekici sabit par\xE7a"
+    2100000: No Name
+    2300000: ' 10'
+    2300002: ' 100'
+    2300004: ' 101'
+    2300006: ' 102'
+    2300008: ' 103'
+    2300010: ' 104'
+    2300012: ' 105'
+    2300014: ' 106'
+    2300016: ' 107'
+    2300018: ' 108'
+    2300020: ' 109'
+    2300022: ' 11'
+    2300024: ' 110'
+    2300026: ' 111'
+    2300028: ' 112'
+    2300030: ' 113'
+    2300032: ' 114'
+    2300034: ' 115'
+    2300036: ' 116'
+    2300038: ' 117'
+    2300040: ' 118'
+    2300042: ' 119'
+    2300044: ' 12'
+    2300046: ' 120'
+    2300048: ' 121'
+    2300050: ' 122'
+    2300052: ' 123'
+    2300054: ' 124'
+    2300056: ' 125'
+    2300058: ' 126'
+    2300060: ' 127'
+    2300062: ' 128'
+    2300064: ' 129'
+    2300066: ' 13'
+    2300068: ' 130'
+    2300070: ' 131'
+    2300072: ' 132'
+    2300074: ' 133'
+    2300076: ' 134'
+    2300078: ' 135'
+    2300080: ' 136'
+    2300082: ' 137'
+    2300084: ' 138'
+    2300086: ' 139'
+    2300088: ' 14'
+    2300090: ' 140'
+    2300092: ' 141'
+    2300094: ' 142'
+    2300096: ' 143'
+    2300098: ' 144'
+    2300100: ' 145'
+    2300102: ' 146'
+    2300104: ' 147'
+    2300106: ' 148'
+    2300108: ' 149'
+    2300110: ' 15'
+    2300112: ' 150'
+    2300114: ' 151'
+    2300116: ' 152'
+    2300118: ' 153'
+    2300120: ' 154'
+    2300122: ' 155'
+    2300124: ' 156'
+    2300126: ' 157'
+    2300128: ' 158'
+    2300130: ' 159'
+    2300132: ' 16'
+    2300134: ' 160'
+    2300136: ' 161'
+    2300138: ' 162'
+    2300140: ' 163'
+    2300142: ' 164'
+    2300144: ' 165'
+    2300146: ' 166'
+    2300148: ' 167'
+    2300150: ' 168'
+    2300152: ' 169'
+    2300154: ' 170'
+    2300156: ' 171'
+    2300158: ' 196'
+    2300160: ' 197'
+    2300162: ' 198'
+    2300164: ' 199'
+    2300166: ' 200'
+    2300168: ' 201'
+    2300170: ' 202'
+    2300172: ' 203'
+    2300174: ' 204'
+    2300176: ' 205'
+    2300178: ' 206'
+    2300180: ' 207'
+    2300182: ' 208'
+    2300184: ' 209'
+    2300186: ' 210'
+    2300188: ' 211'
+    2300190: ' 212'
+    2300192: ' 213'
+    2300194: ' 214'
+    2300196: ' 215'
+    2300198: ' 216'
+    2300200: ' 217'
+    2300202: ' 218'
+    2300204: ' 219'
+    2300206: ' 220'
+    2300208: ' 221'
+    2300210: ' 222'
+    2300212: ' 223'
+    2300214: ' 224'
+    2300216: ' 225'
+    2300218: ' 226'
+    2300220: ' 227'
+    2300222: ' 228'
+    2300224: ' 229'
+    2300226: ' 230'
+    2300228: ' 231'
+    2300230: ' 91'
+    2300232: ' 92'
+    2300234: ' 93'
+    2300236: ' 94'
+    2300238: ' 95'
+    2300240: ' 96'
+    2300242: ' 97'
+    2300244: ' 98'
+    2300246: ' 99'
+    3300000: ' 10'
+    3300002: ' 100'
+    3300004: ' 101'
+    3300006: ' 102'
+    3300008: ' 103'
+    3300010: ' 104'
+    3300012: ' 105'
+    3300014: ' 106'
+    3300016: ' 107'
+    3300018: ' 108'
+    3300020: ' 109'
+    3300022: ' 11'
+    3300024: ' 110'
+    3300026: ' 111'
+    3300028: ' 112'
+    3300030: ' 113'
+    3300032: ' 114'
+    3300034: ' 115'
+    3300036: ' 116'
+    3300038: ' 117'
+    3300040: ' 118'
+    3300042: ' 119'
+    3300044: ' 12'
+    3300046: ' 120'
+    3300048: ' 121'
+    3300050: ' 122'
+    3300052: ' 123'
+    3300054: ' 124'
+    3300056: ' 125'
+    3300058: ' 126'
+    3300060: ' 127'
+    3300062: ' 128'
+    3300064: ' 129'
+    3300066: ' 13'
+    3300068: ' 130'
+    3300070: ' 131'
+    3300072: ' 132'
+    3300074: ' 133'
+    3300076: ' 134'
+    3300078: ' 135'
+    3300080: ' 136'
+    3300082: ' 137'
+    3300084: ' 138'
+    3300086: ' 139'
+    3300088: ' 14'
+    3300090: ' 140'
+    3300092: ' 141'
+    3300094: ' 142'
+    3300096: ' 143'
+    3300098: ' 144'
+    3300100: ' 145'
+    3300102: ' 146'
+    3300104: ' 147'
+    3300106: ' 148'
+    3300108: ' 149'
+    3300110: ' 15'
+    3300112: ' 150'
+    3300114: ' 151'
+    3300116: ' 152'
+    3300118: ' 153'
+    3300120: ' 154'
+    3300122: ' 155'
+    3300124: ' 156'
+    3300126: ' 157'
+    3300128: ' 158'
+    3300130: ' 159'
+    3300132: ' 16'
+    3300134: ' 160'
+    3300136: ' 161'
+    3300138: ' 162'
+    3300140: ' 163'
+    3300142: ' 164'
+    3300144: ' 165'
+    3300146: ' 166'
+    3300148: ' 167'
+    3300150: ' 168'
+    3300152: ' 169'
+    3300154: ' 170'
+    3300156: ' 171'
+    3300158: ' 196'
+    3300160: ' 197'
+    3300162: ' 198'
+    3300164: ' 199'
+    3300166: ' 200'
+    3300168: ' 201'
+    3300170: ' 202'
+    3300172: ' 203'
+    3300174: ' 204'
+    3300176: ' 205'
+    3300178: ' 206'
+    3300180: ' 207'
+    3300182: ' 208'
+    3300184: ' 209'
+    3300186: ' 210'
+    3300188: ' 211'
+    3300190: ' 212'
+    3300192: ' 213'
+    3300194: ' 214'
+    3300196: ' 215'
+    3300198: ' 216'
+    3300200: ' 217'
+    3300202: ' 218'
+    3300204: ' 219'
+    3300206: ' 220'
+    3300208: ' 221'
+    3300210: ' 222'
+    3300212: ' 223'
+    3300214: ' 224'
+    3300216: ' 225'
+    3300218: ' 226'
+    3300220: ' 227'
+    3300222: ' 228'
+    3300224: ' 229'
+    3300226: ' 230'
+    3300228: ' 231'
+    3300230: ' 91'
+    3300232: ' 92'
+    3300234: ' 93'
+    3300236: ' 94'
+    3300238: ' 95'
+    3300240: ' 96'
+    3300242: ' 97'
+    3300244: ' 98'
+    3300246: ' 99'
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
