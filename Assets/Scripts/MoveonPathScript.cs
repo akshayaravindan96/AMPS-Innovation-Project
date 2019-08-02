@@ -100,7 +100,7 @@ public class MoveonPathScript : MonoBehaviour {
             {
                 //CurrentWayPointID = 0;
             }
-            if (flag != 0)
+            if (flag != 0&& CurrentWayPointID<=9)
             {
                 Rigidbody body = tote.attachedRigidbody;
                 tote_position = new Vector3(transform.position.x, transform.position.y + 2.2f, transform.position.z + 0.2f);
@@ -108,16 +108,11 @@ public class MoveonPathScript : MonoBehaviour {
 
                 tote.gameObject.transform.rotation = Quaternion.Slerp(transform.rotation, rotation, Time.deltaTime * rotationSpeed);
             }
-            if (CurrentWayPointID == 10)
+            if (CurrentWayPointID == 9)
             {
                 speed = 1;
             }
-            if (CurrentWayPointID == 11)
-            {
-
-                blue_box.gameObject.SetActive(false);
-
-            }
+           
             if (CurrentWayPointID == 13)
             {
                 speed = 3;
