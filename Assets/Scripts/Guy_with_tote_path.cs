@@ -14,6 +14,8 @@ public class Guy_with_tote_path : MonoBehaviour {
     public Collider tote_being_carried;
     public Collider tote_on_stand;
 
+    public Camera tote;
+    
     Vector3 last_position;
     Vector3 current_position;
     Vector3 tote_position;
@@ -21,6 +23,7 @@ public class Guy_with_tote_path : MonoBehaviour {
     void Start () {
         last_position = transform.position;
         tote_on_stand.gameObject.SetActive(false);
+     
     }
 	
 	// Update is called once per frame
@@ -43,6 +46,7 @@ public class Guy_with_tote_path : MonoBehaviour {
         {
             tote_being_carried.gameObject.SetActive(false);
             tote_on_stand.gameObject.SetActive(true);
+        
         }
     }
     private void OnTriggerEnter(Collider other)
