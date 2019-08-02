@@ -11,6 +11,8 @@ public class Guy_with_tote_path : MonoBehaviour {
     private float reachDistance = 1.0f;
     public float rotationSpeed = 5.0f;
     public string pathName;
+    public Collider tote_being_carried;
+    public Collider tote_on_stand;
 
     Vector3 last_position;
     Vector3 current_position;
@@ -18,6 +20,7 @@ public class Guy_with_tote_path : MonoBehaviour {
     // Use this for initialization
     void Start () {
         last_position = transform.position;
+        tote_on_stand.gameObject.SetActive(false);
     }
 	
 	// Update is called once per frame
@@ -36,5 +39,21 @@ public class Guy_with_tote_path : MonoBehaviour {
         {
             //CurrentWayPointID = 0;
         }
+        if(CurrentWayPointID==8)
+        {
+            tote_being_carried.gameObject.SetActive(false);
+            tote_on_stand.gameObject.SetActive(true);
+        }
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("pickup"))
+        {
+            other.gameObject.SetActive(false);
+            tote_being_carried.gameObject.SetActive(false);
+            tote_on_stand.gameObject.SetActive(true);
+            flag = 1;
+        }
+
     }
 }

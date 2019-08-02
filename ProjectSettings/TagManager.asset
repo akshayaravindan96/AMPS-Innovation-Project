@@ -7,6 +7,7 @@ TagManager:
   - AGV
   - Tote
   - delivery
+  - pickup
   layers:
   - Default
   - TransparentFX
